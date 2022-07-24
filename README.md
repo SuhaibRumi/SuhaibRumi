@@ -1,13 +1,13 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm SuhaibRumi</h1>
-<h3 align="center">A Passionate Frontend Developer From Pakistan</h3>
+<h3 align="center">A Passionate  Developer </h3>
 
 
 
 <img align="right" alt="coding" height="300" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/14740614/media/d12688f7235daddb922d12c5947997d5.png" >
 
-- 🌱 I’m currently learning **Dart , Flutter**
+- 🌱 **Dart , Flutter,Firebase, Sqflite,oop**
 
 - 💬 Ask me about **Android , Flutter**
 
