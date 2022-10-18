@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" height="300" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/14740614/media/d12688f7235daddb922d12c5947997d5.png" >
 
-- 🌱 **Dart , Flutter,Firebase, Sqflite,oop**
+- 🌱 **Dart , Flutter, Firebase, Sqflite, MySQL, MVVM, Provider(Sate Managmnet)**
 
 - 💬 Ask me about **Android , Flutter**
 
