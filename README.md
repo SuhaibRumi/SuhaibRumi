@@ -1,6 +1,4 @@
 ![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
-
-<br>
 <h1 align="center">Hi 👋, I'm Suhaib Salman</h1>
 <br>
 
