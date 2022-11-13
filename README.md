@@ -1,9 +1,9 @@
-![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
+![MasterHead]
 <h1 align="center">Hi 👋, I'm Suhaib Salman</h1>
 <br>
 
 <h4 align="center"> 
-I'm a Developer Working on Flutter Projects.
+I'm a Flutter Developer Working on Flutter Projects.
  </h4>
 <br>
 
