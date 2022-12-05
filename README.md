@@ -3,7 +3,7 @@
 <br>
 
 <h4 align="center"> 
-I'm a Flutter Developer Working on COVID-19 Tracker -App with REST API .
+I'm a Flutter Developer Working on blog-App with Firebase.
  </h4>
 <br>
 
