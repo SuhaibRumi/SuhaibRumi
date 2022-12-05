@@ -7,7 +7,7 @@ I'm a Flutter Developer Working on blog-App with Firebase.
  </h4>
 <br>
 
-- 🌱 **Dart, Flutter, Firebase, Sqflite, MySQL, MVVM, Provider(Sate Managmnet)**
+- 🌱 **Dart, Flutter, Firebase, Sqflite, MySQL, MVVM, Provider(State Management)**
 
 - 💬 Ask me about **Android , Flutter, Dart,  I'm happy to help others**
 
@@ -21,11 +21,8 @@ I'm a Flutter Developer Working on blog-App with Firebase.
 
 <p align="left">
 <a href="https://twitter.com/SuHaiB_RuMii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tiwtter" height="30" width="40" /></a>
- 
 <a href="https://linkedin.com/in/suhaib-rumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" /></a>
- 
 <a href="https://instagram.com/suhaibrumii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
- 
   <a href="https://github.com/SuhaibRumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
  </p>
  <br>
