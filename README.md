@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me: 
 
-😄 Pronouns: He/His<br>🌱 I’m currently learning more about Animation in flutter.<br>💬 Ask me about Flutter or any tech-related stuff.<br>🌐How to reach me: Check the social links below <br>
+😄 Pronouns: He/His<br>🌱 I’m currently learning more about Flutter.<br> Contributing to open source projects.<br>💬 Ask me about Flutter or any tech-related stuff.<br>🌐How to reach me: Check the social links below <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suhaibrumii)
