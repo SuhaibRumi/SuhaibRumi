@@ -1,11 +1,10 @@
-<h1 align="center"> Hi Developer, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hi Developers, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Suhaib Salman 
 	<a href="https://github.com/DenverCoder1/readme-typing-svg">
 	<img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Flutter+Developer;UX/UI+Enthusiast;Open+Source+Lover%20&center=true&width=500&height=50"></a>
 </h1> 
-
 
 
 ## 👨‍💻 About Me: 
@@ -26,8 +25,7 @@
 
 ##  <img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/>   Github Profile Summary Card:
 <p align="center">
-	
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuhaibRumi&theme=tokyonight"/>
+<img width="65%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuhaibRumi&theme=tokyonight"/> <img width="32%"   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuhaibRumi&theme=tokyonight"/>
 </p>
 
 ##  <img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/>   GitHub Stats:
