@@ -12,7 +12,7 @@
 😄 Pronouns: He/Him<br> 👨‍💻 Contributing to open source projects.<br>💻I am Learning block state management.<br>💬 Ask me about Flutter or any tech-related stuff.<br> 🌐How to reach me: Check the social links below <br> 
 
 
-##  <img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/><br>
+
 
 
 
