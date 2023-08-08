@@ -9,7 +9,7 @@
 
 ## 👨‍💻About Me: 
 
-😄 Pronouns: He/Him<br> 👨‍💻 Contributing to open source projects.<br>💻I am Learning block state management.<br>💬 Ask me about Flutter or any tech-related stuff.<br> 🌐How to reach me: Check the social links below <br> 
+😄 Pronouns: He/Him<br> 👨‍💻 Contributing to open source projects.<br>💻I am Learning BLOC StateManagement.<br>💬 Ask me about Flutter or any tech-related stuff.<br> 🌐How to reach me: Check the social links below <br> 
 
 
 
