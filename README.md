@@ -11,7 +11,7 @@
 
 😄**Pronouns: He/Him**
 
-- 🔭  : I’m currently searching for new **Projects()**
+- 🔭  : I’m currently searching for **New Projects**
   
 
 - 🌱  : I’m currently learning **[Bloc State Management](https://pub.dev/packages/flutter_bloc)**
