@@ -12,12 +12,16 @@
 😄**Pronouns: He/Him**
 
 - 🔭  : I’m currently searching for new **Projects()**
+  
 
-- 🌱  : I’m currently learning **[Bloc StateMangement](https://pub.dev/packages/flutter_bloc)**
+- 🌱  : I’m currently learning **[Bloc State Management](https://pub.dev/packages/flutter_bloc)**
+
 
 - 👯  : I want to contribute as **[Flutter Developer]()**
 
-- 📫  : How to reach me **[suhaibsalman007@gmail.com]()**
+
+- 📫  : How to reach me **suhaibsalman007@gmail.com**
+
   
 - ⚡ : Fun fact **I love playing video games, Art, Sketching and Music**
  
