@@ -49,7 +49,12 @@
 ![Firebase](https://img.shields.io/badge/firebase-%32EF9D02.svg?style=for-the-badge&logo=firebase)  ![GEtx](https://img.shields.io/badge/getx-%23032D0f.svg?style=for-the-badge&logo=getx&logoColor=white) ![Provider](https://img.shields.io/badge/provider-%23E4405F.svg?style=for-the-badge&logo=provider&logoColor=red) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%23563D7C.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![RestAPI](https://img.shields.io/badge/Rest+API-005571?style=for-the-badge&logo=restapi) ![Figma](https://img.shields.io/badge/figma-%20F24E3E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23E3EF26.svg?style=for-the-badge&logo=css&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
 
 
-
+## 👨‍💻 Worked on Applications
+<p align="left" >
+<a href="https://play.google.com/store/apps/details?id=com.streamup.thevistech" target="StreamUp Live"><img src="https://play-lh.googleusercontent.com/wyKiqIq8kZJ66QINSW06F_NFWzpuiC-ZUsRxu5OzEehsHk_wjGSaYO7AJY4B0MT-6fQ=w240-h480-rw" height="80" title=SteramUp-Live /></a>&emsp; 
+<a href="https://github.com/SuhaibRumi/Covid-19-Tracking-App" target="Covid-Tracking"><img src="https://github.com/SuhaibRumi/Covid-19-Tracking-App/blob/main/assets/images/covid.png" height="80"  title=Covid-Tracking /></a>&emsp; 
+<a href="https://github.com/SuhaibRumi/blog_app" target="Blog-App"><img src="https://cdn.logojoy.com/wp-content/uploads/2018/05/30164225/572.png" height="70"  border-radius="20px" title= Blog-App /></a> 
+</p>
 
 ##  <img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/>   Github Profile Summary Card:
 <p align="center">
