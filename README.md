@@ -12,8 +12,8 @@
 
 😄**Pronouns: He/Him**
 
-- 🔭  : I’m currently searching for **New Projects**
-  
+- 🔭  : I'm currently working with **[Upalerts](https://chromewebstore.google.com/detail/upalerts-ai-cover-letters/mohjajgdccdncohjeglnacfdchccegcg)**
+
 
 - 🌱  : I’m currently learning **[Bloc State Management](https://pub.dev/packages/flutter_bloc)**
 
