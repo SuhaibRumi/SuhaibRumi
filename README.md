@@ -21,7 +21,7 @@
 - 👯  : I want to contribute as **[Flutter Developer]()**
 
 
-- 📫  : How to reach me **suhaibsalman007@gmail.com**
+- 📫  : How to reach me **[LinkTree](https://linktr.ee/suhaibsalman)**
 
   
 - ⚡ : Fun fact **I love playing video games, Art, Sketching and Music**
