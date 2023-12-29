@@ -1,8 +1,8 @@
 <h2 align="center">👋
-  Hi Developers,
-	I'm Suhaib Salman<br>
+  Hi Developers, I'm
+	<br>
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Flutter+Developer;UX/UI+Enthusiast;Open+Source+Lover+&center=true&width=500&height=50" ></a></h2>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;UX/UI+Enthusiast;Open+Source+Lover+&center=true&width=500&height=50" ></a></h2>
 
 
 ## 🙋‍♂️ About Me
