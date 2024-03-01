@@ -11,10 +11,9 @@
 
 😄**Pronouns: He/Him**
 
-- 🔭  I'm currently in AppSol360 📱 company and working on the [Upalerts Mobile and web app](https://chromewebstore.google.com/detail/upalerts-ai-cover-letters/mohjajgdccdncohjeglnacfdchccegcg)
+- I am currently working in AppSol360 📱 company on [Upalerts Mobile and web app](https://chromewebstore.google.com/detail/upalerts-ai-cover-letters/mohjajgdccdncohjeglnacfdchccegcg).
 
-
-- 🌱  : I’m learning new things about **[Bloc State Management](https://pub.dev/packages/flutter_bloc), [Revenuecat ](https://www.revenuecat.com/), [ShoreBird](https://shorebird.dev/)
+- 🌱  : I’m learning new things about [Bloc State Management](https://pub.dev/packages/flutter_bloc), [Revenuecat ](https://www.revenuecat.com/), [ShoreBird](https://shorebird.dev/)
 
 
 - 👯  : I want to contribute as **[Flutter Developer]()**
