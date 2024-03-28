@@ -11,9 +11,9 @@
 
 😄**Pronouns: He/Him**
 
-- I am currently working on 📱  [vidverseai_ai Mobile and web app](https://chromewebstore.google.com/detail/upalerts-ai-cover-letters/mohjajgdccdncohjeglnacfdchccegcg).
+- I am currently working on 📱  [vidverseai_ai Mobile and web app](https://chromewebstore.google.com/detail/upalerts-ai-cover-letters/mohjajgdccdncohjeglnacfdchccegcg)
 
-- 🌱  : I’m learning new things about [Bloc State Management](https://pub.dev/packages/flutter_bloc), [Revenuecat ](https://www.revenuecat.com/), [ShoreBird](https://shorebird.dev/)
+- 🌱  : I’m learning new things about [Bloc State Management](https://pub.dev/packages/flutter_bloc)
 
 
 - 👯  : I want to contribute as **[Flutter Developer]()**
