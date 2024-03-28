@@ -1,17 +1,17 @@
 <h2 align="center">👋
   Hi Developers, I'm
-	<br>
+
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
+	
 <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;UX/UI+Enthusiast;Open+Source+Lover+&center=true&width=500&height=50" ></a></h2>
 
 ## 🙋‍♂️ About Me
-
 
 <img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
 
 😄**Pronouns: He/Him**
 
-- I am currently working in AppSol360 📱 company on [Upalerts Mobile and web app](https://chromewebstore.google.com/detail/upalerts-ai-cover-letters/mohjajgdccdncohjeglnacfdchccegcg).
+- I am currently working on 📱  [vidverseai_ai Mobile and web app](https://chromewebstore.google.com/detail/upalerts-ai-cover-letters/mohjajgdccdncohjeglnacfdchccegcg).
 
 - 🌱  : I’m learning new things about [Bloc State Management](https://pub.dev/packages/flutter_bloc), [Revenuecat ](https://www.revenuecat.com/), [ShoreBird](https://shorebird.dev/)
 
@@ -45,7 +45,7 @@
 
 ## 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%32EF9D02.svg?style=for-the-badge&logo=firebase) ![Bloc](https://img.shields.io/badge/Bloc-%2302569B.svg?style=for-the-badge&logo=Bloc&logoColor=white)  ![GEtx](https://img.shields.io/badge/getx-%23032D0f.svg?style=for-the-badge&logo=getx&logoColor=white) ![Provider](https://img.shields.io/badge/provider-%23E4405F.svg?style=for-the-badge&logo=provider&logoColor=red) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%23563D7C.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![RestAPI](https://img.shields.io/badge/Rest+API-005571?style=for-the-badge&logo=restapi) ![Figma](https://img.shields.io/badge/figma-%20F24E3E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23E3EF26.svg?style=for-the-badge&logo=css&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%32EF9D02.svg?style=for-the-badge&logo=firebase) ![Bloc](https://img.shields.io/badge/Bloc-%2302569B.svg?style=for-the-badge&logo=Bloc&logoColor=white)  ![GEtx](https://img.shields.io/badge/getx-%23032D0f.svg?style=for-the-badge&logo=getx&logoColor=white) ![Provider](https://img.shields.io/badge/provider-%23E4405F.svg?style=for-the-badge&logo=provider&logoColor=red) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%23563D7C.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![RestAPI](https://img.shields.io/badge/Rest+API-005571?style=for-the-badge&logo=restapi) ![Figma](https://img.shields.io/badge/figma-%20F24E3E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23E3EF26.svg?style=for-the-badge&logo=css&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 
 ## 👨‍💻 Worked on Applications
