@@ -1,32 +1,24 @@
-<h2 align="center">👋
-  Hi Developers, I'm
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<h1 align="center">
+👋Greetings, Code Collaborators
+ I'm <href="https://github.com/DenverCoder1/readme-typing-svg">
 	
-<img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;UX/UI+Enthusiast;Open+Source+Lover+&center=true&width=500&height=50" ></a></h2>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Expert+Flutter+Developer;Mobile+App+Developer;Building+top-tier+Cross-Platform+Apps;Open+Source+Lover+&center=true&width=500&height=50" ></h1>
 
-## 🙋‍♂️ About Me
+ ## 🙋‍♂️ About Me
 
-<img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
+<img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"/>
 
 😄**Pronouns: He/Him**
 
-- I am currently working on 📱  [vidverseai_ai Mobile and web app](https://chromewebstore.google.com/detail/upalerts-ai-cover-letters/mohjajgdccdncohjeglnacfdchccegcg)
+🚀 Freelance Mobile App Developer | Available for your Projects on Upwork
 
-- 🌱  : I’m learning new things about [Bloc State Management](https://pub.dev/packages/flutter_bloc)
+🌱 Learning About Generative AI: Always exploring the latest advancements in AI technology to stay ahead.
 
+👯 Aspiring Contributor: Seeking opportunities to contribute as a Flutter Developer in open-source projects and beyond.
 
-- 👯  : I want to contribute as **[Flutter Developer]()**
+📫 Hire Me: on **[![Upwork](https://img.shields.io/badge/Upwork-%2230175C2.svg?logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bdf3e81aec00bff1?mp_source=share)** to discuss your project needs.
 
-
-- 📫  : How to reach me **[LinkTree](https://linktr.ee/suhaibsalman)**
-
-  
-- ⚡ : Fun fact **I love playing video games, Art, Sketching and Music**
- 
-
-
-
+⚡ Fun Fact: I’m passionate about video games, art, sketching, and music.
 
 
 
