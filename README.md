@@ -1,12 +1,11 @@
-<h1 align="center">
+<h2 align="center">
 👋Greetings, Code Collaborators
  I'm <href="https://github.com/DenverCoder1/readme-typing-svg">
 	
-<img src="https://readme-typing-svg.herokuapp.com?lines=Expert+Flutter+Developer;Mobile+App+Developer;Building+top-tier+Cross-Platform+Apps;Open+Source+Lover+&center=true&width=500&height=50" ></h1>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Expert+Flutter+Developer;Mobile+App+Developer;Building+top-tier+Cross-Platform+Apps;Open+Source+Lover+&center=true&width=500&height=50"></h2>
 
- ## 🙋‍♂️ About Me
-
-<img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"/>
+ ## 🙋‍♂️ About Me #
+<img align="right" src="https://media.licdn.com/dms/image/v2/D4E12AQFqgP8d704vYg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1657270275654?e=1730937600&v=beta&t=UXXvnpCHtpxdey9htKWc2Bit1WTRRl6NrsWUwTTR6O0" height="320"/>
 
 😄**Pronouns: He/Him**
 
