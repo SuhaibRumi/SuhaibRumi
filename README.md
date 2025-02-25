@@ -7,19 +7,19 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Expert+Flutter+Developer;Mobile+App+Developer;Building+toptier+Cross-Platform+Apps;Open+Source+Lover+&center=true&width=600&height=45"></h2>
 
  # 🙋‍♂️ About Me
-<img align="right" src="https://media.licdn.com/dms/image/v2/D4E12AQFqgP8d704vYg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1657270275654?e=1730937600&v=beta&t=UXXvnpCHtpxdey9htKWc2Bit1WTRRl6NrsWUwTTR6O0" height="320"/>
+
 
 😄**Pronouns: He/Him**
 
-🚀 Freelance Mobile App Developer | Available for your Projects on Upwork
+🚀 Expert Mobile App Developer | Flutter App Development 
 
-🌱 Learning About Generative AI: Always exploring the latest advancements in AI technology to stay ahead.
+🌱 Always Student: Always exploring the latest advancements in AI technology to stay ahead.
 
-👯 Aspiring Contributor: Seeking opportunities to contribute as a Flutter Developer in open-source projects and beyond.
+👯 Contributor Lover: Seeking opportunities to contribute as a Flutter Developer in open-source projects and beyond.
 
- Hire Me: on **[![Upwork](https://img.shields.io/badge/Upwork-%2230175C2.svg?logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bdf3e81aec00bff1?mp_source=share)** to discuss your project needs.
+ Hire Me: on **[![Upwork](https://img.shields.io/badge/Upwork-%2230175C2.svg?logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bdf3e81aec00bff1?mp_source=share)** For Delivering Next-Gen Flutter app development project.
 
-📫 How to reach me: Check Social links below.
+📫 How to reach me: Check the Social links below.
 
 ⚡ Fun Fact: I’m passionate about video games, art, sketching, and music.
 
@@ -39,6 +39,8 @@
 <a href="https://play.google.com/store/apps/details?id=com.streamup.thevistech" target="StreamUp Live"><img src="https://play-lh.googleusercontent.com/wyKiqIq8kZJ66QINSW06F_NFWzpuiC-ZUsRxu5OzEehsHk_wjGSaYO7AJY4B0MT-6fQ=w240-h480-rw" height="80" title=SteramUp-Live /></a>&emsp; 
 <a href="https://github.com/SuhaibRumi/Covid-19-Tracking-App" target="Covid-Tracking"><img src="https://github.com/SuhaibRumi/Covid-19-Tracking-App/blob/main/assets/images/covid.png" height="80"  title=Covid-Tracking /></a>&emsp; 
 <a href="https://github.com/SuhaibRumi/blog_app" target="Blog-App"><img src="https://cdn.logojoy.com/wp-content/uploads/2018/05/30164225/572.png" height="70"  border-radius="20px" title= Blog-App /></a> 
+<a href="https://github.com/SuhaibRumi/OlizonApp" target="Olizon-App"><img src="https://github.com/SuhaibRumi/OlizonApp/blob/main/assets/images/png/ozlin_logo.png" height="70"  border-radius="20px" title= OlizonApp /></a> <a href="https://github.com/SuhaibRumi/e-shop" target="Olizon-App"><img src="https://github.com/SuhaibRumi/e-shop/blob/main/assets/images/app-logo.png" height="70"  border-radius="20px" title= e-shop /></a>
+        
 </p>
 
 ## <img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/>   Github Profile Summary Card:
