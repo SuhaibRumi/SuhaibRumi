@@ -36,11 +36,10 @@
 ## 👨‍💻 Worked on Applications
 <p align="left" >
 <a href="https://play.google.com/store/apps/details?id=com.upalerts.app&hl=en&gl=US" target="UpAlerts"><img src="https://play-lh.googleusercontent.com/Ngq8sxTvZxjJHRr8ZObgFshMFW_2u3e3Oit3pd0yW-LaGaqD9zf5oBW8zHK2IGq9eg=w240-h480-rw" height="80" title=UpAlerts /></a>&emsp; 
-<a href="https://play.google.com/store/apps/details?id=com.streamup.thevistech" target="StreamUp Live"><img src="https://play-lh.googleusercontent.com/wyKiqIq8kZJ66QINSW06F_NFWzpuiC-ZUsRxu5OzEehsHk_wjGSaYO7AJY4B0MT-6fQ=w240-h480-rw" height="80" title=SteramUp-Live /></a>&emsp; 
+<a href="https://github.com/SuhaibRumi/" target="StreamUp Live"><img src="https://play-lh.googleusercontent.com/wyKiqIq8kZJ66QINSW06F_NFWzpuiC-ZUsRxu5OzEehsHk_wjGSaYO7AJY4B0MT-6fQ=w240-h480-rw" height="80" title=SteramUp-Live /></a>&emsp; 
 <a href="https://github.com/SuhaibRumi/Covid-19-Tracking-App" target="Covid-Tracking"><img src="https://github.com/SuhaibRumi/Covid-19-Tracking-App/blob/main/assets/images/covid.png" height="80"  title=Covid-Tracking /></a>&emsp; 
 <a href="https://github.com/SuhaibRumi/blog_app" target="Blog-App"><img src="https://cdn.logojoy.com/wp-content/uploads/2018/05/30164225/572.png" height="70"  border-radius="20px" title= Blog-App /></a> 
-<a href="https://github.com/SuhaibRumi/OlizonApp" target="Olizon-App"><img src="https://github.com/SuhaibRumi/OlizonApp/blob/main/assets/images/png/ozlin_logo.png" height="70"  border-radius="20px" title= OlizonApp /></a> <a href="https://github.com/SuhaibRumi/e-shop" target="Olizon-App"><img src="https://github.com/SuhaibRumi/e-shop/blob/main/assets/images/app-logo.png" height="70"  border-radius="20px" title= e-shop /></a>
-        
+<a href="https://github.com/SuhaibRumi/OlizonApp" target="Olizon-App"><img src="https://github.com/SuhaibRumi/OlizonApp/blob/main/assets/images/png/ozlin_logo.png" height="70"  border-radius="20px" title= OlizonApp /></a> <a href="https://github.com/SuhaibRumi/e-shop" target="Olizon-App"><img src="https://github.com/SuhaibRumi/e-shop/blob/main/assets/images/app-logo.png" height="70"  border-radius="20px" title= e-shop /></a>      
 </p>
 
 ## <img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/>   Github Profile Summary Card:
