@@ -8,7 +8,6 @@
 
  # 🙋‍♂️ About Me
 
-
 😄**Pronouns: He/Him**
 
 🚀 Expert Mobile App Developer | Flutter App Development 
