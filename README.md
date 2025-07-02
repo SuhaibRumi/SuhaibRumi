@@ -1,12 +1,13 @@
 <h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="40"
+         height "40"
          width="40" /> I'm Suhaib Salman</h1>
 <h2 align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?lines=Expert+Flutter+Developer;Mobile+App+Developer;Building+toptier+Cross-Platform+Apps;Open+Source+Lover+&center=true&width=600&height=45"></h2>
 
  # 🙋‍♂️ About Me
+---
 
 😄**Pronouns: He/Him**
 
@@ -21,6 +22,8 @@
 📫 How to reach me: Check the Social links below.
 
 ⚡ Fun Fact: I’m passionate about video games, art, sketching, and music.
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suhaibrumii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhaib-rumi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@SuHaiB_RuMii) [![Medium](https://img.shields.io/badge/Medium-%2230175C2.svg?logo=Medium&logoColor=white)](https://Medium.com/@suhaibsohan007) [![Peerlist](https://img.shields.io/badge/peerlist-%23032D0F.svg?logo=peerlist&logoColor=white)](https://peerlist.io/suhaibsalman) 
