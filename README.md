@@ -52,8 +52,14 @@
 
 ## <img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/>   GitHub Stats:
 
+
+
+
 <p align="center">
-<img width="380p" src="https://github-readme-stats.vercel.app/api?username=SuhaibRumi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SuhaibRumi&theme=tokyonight&hide_border=true)  ![](https://github-readme-stats.vercel.app/api?username=SuhaibRumi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+
+
 
 </p>
 
