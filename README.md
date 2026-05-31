@@ -1,5 +1,5 @@
 <h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
+         alt="Waving hand animated gif."
          height "40"
          width="40" /> I'm Suhaib Salman</h1>
 <h2 align="center">
@@ -7,21 +7,30 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Expert+Flutter+Developer;Mobile+App+Developer;Building+toptier+Cross-Platform+Apps;Open+Source+Lover+&center=true&width=600&height=45"></h2>
 
  # 🙋‍♂️ About Me
----
+🚀 Senior Flutter Developer specializing in cross-platform mobile and web applications.
 
-😄**Pronouns: He/Him**
+📱 Over 4 years of experience delivering production-ready solutions for startups, businesses, and SaaS platforms.
 
-🚀 Expert Mobile App Developer | Flutter App Development 
+🔥 Expertise:
+- Flutter & Dart
+- Firebase
+- REST APIs
+- State Management (Provider, Riverpod, Bloc)
+- UI/UX Implementation
+- CI/CD & App Deployment
 
-🌱 Always Student: Always exploring the latest advancements in AI technology to stay ahead.
+🏢 Co-Founder at TechnixHub, where we help businesses build scalable digital products that perform and convert.
 
-👯 Contributor Lover: Seeking opportunities to contribute as a Flutter Developer in open-source projects and beyond.
 
- Hire Me: on **[![Upwork](https://img.shields.io/badge/Upwork-%2230175C2.svg?logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bdf3e81aec00bff1?mp_source=share)** For Delivering Next-Gen Flutter app development project.
+🌱 Currently working on AI-powered applications and automation workflows.
 
-📫 How to reach me: Check the Social links below.
+🤝 Open for freelance opportunities, partnerships, and exciting Flutter projects.
 
-⚡ Fun Fact: I’m passionate about video games, art, sketching, and music.
+
+📫 Let's connect and build something amazing together!
+
+ Hire me: **[![Upwork](https://img.shields.io/badge/Upwork-%2230175C2.svg?logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bdf3e81aec00bff1?mp_source=share)** For Delivering Next-Gen Flutter app development projects.
+
 
 ---
 
