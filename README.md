@@ -190,7 +190,7 @@ class SuhaibSalman extends FlutterDeveloper {
 
 <div align="center">
 
-### 💬 Let's Build Something Amazing Together!
+### 📡 `System Status: Open for Freelance &  Collaborations.`
 
 [![Email](https://img.shields.io/badge/Email-suhaibsohan007%40gmail.com-6a38bc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhaibsohan007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-suhaibsalman-1867d8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/suhaibsalman)
@@ -198,7 +198,7 @@ class SuhaibSalman extends FlutterDeveloper {
 
 <br/>
 
-*⭐ Star repositories you find useful — it keeps me motivated to build more!*
+
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,50:7B2FBE,100:6A0DAD&height=100&section=footer"/>
