@@ -46,9 +46,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhaibSalman&theme=tokyonight" />
+  <img src wdth="32%"="https://github-readme-streak-stats.herokuapp.com/?user=SuhaibSalman&theme=tokyonight" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=SuhaibSalman&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img wdth="32%" src="https://github-readme-stats.vercel.app/api?username=SuhaibSalman&show_icons=true&theme=tokyonight&rank_icon=github" />
 </div>
 
 
