@@ -151,10 +151,10 @@ class SuhaibSalman extends FlutterDeveloper {
 <table>
 <tr>
 <td align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuhaibRumi&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuhaibSalman&theme=tokyonight"/>
 </td>
 <td align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuhaibRumi&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuhaibSalman&theme=tokyonight"/>
 </td>
 </tr>
 </table>
