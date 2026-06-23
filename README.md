@@ -151,10 +151,10 @@ class SuhaibSalman extends FlutterDeveloper {
 <table>
 <tr>
 <td align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuhaibSalman&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuhaibRumi&theme=tokyonight"/>
 </td>
 <td align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuhaibSalman&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuhaibRumi&theme=tokyonight"/>
 </td>
 </tr>
 </table>
@@ -164,10 +164,10 @@ class SuhaibSalman extends FlutterDeveloper {
 <table>
 <tr>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhaibSalman&theme=tokyonight" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhaibRumi&theme=tokyonight" height="150"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=SuhaibSalman&show_icons=true&theme=tokyonight&rank_icon=github" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SuhaibRumi&show_icons=true&theme=tokyonight&rank_icon=github" height="150"/>
 </td>
 </tr>
 </table>
@@ -190,7 +190,7 @@ class SuhaibSalman extends FlutterDeveloper {
 
 <div align="center">
 
-### 📡 `System Status: Open for Freelance &  Collaborations.`
+### 📡 `System Status: Open for Freelance & Collaborations.`
 
 [![Email](https://img.shields.io/badge/Email-suhaibsohan007%40gmail.com-6a38bc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhaibsohan007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-suhaibsalman-1867d8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/suhaibsalman)
