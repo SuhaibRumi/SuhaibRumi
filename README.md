@@ -110,7 +110,7 @@ class SuhaibSalman extends FlutterDeveloper {
 
 ---
 
-## 🚀 Apps I've Shipped
+## 🚀 Web & Apps I've Shipped
 
 <div align="center">
 <table>
