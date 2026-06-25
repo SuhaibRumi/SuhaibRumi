@@ -177,7 +177,7 @@ class SuhaibSalman extends FlutterDeveloper {
 <table>
 <tr>
 <td width="55%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuhaibRumi&theme=tokyo-night&bg_color=1a1b27&hide_border=true&radius=8" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuhaibRumi&theme=tokyonight&bg_color=1a1b27&hide_border=true&radius=8" width="100%">
 </td>
 
 <td width="45%">
