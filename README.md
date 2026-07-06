@@ -44,7 +44,7 @@ class SuhaibSalman extends FlutterDeveloper {
 
   String get motto => "Ship fast. Build clean. Scale smart. 🚀";
 }
-Portfolio: suhaibsalman-portolio.vercel.app
+
 ```
 
 ---
