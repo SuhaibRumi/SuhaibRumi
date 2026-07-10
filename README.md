@@ -168,7 +168,7 @@ class SuhaibSalman extends FlutterDeveloper {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhaibRumi&theme=tokyonight" height="150"/>
 </td>
 <td>
-<img src="https://github-readme-stats-git-master-suhaib-salmans-projects.vercel.app/api?username=SuhaibRumi&show_icons=true&theme=tokyonight&rank_icon=github" height="150"/>
+<img src="https://github-readme-stats-chi-five-fof9f54u28.vercel.app/api?username=SuhaibRumi&show_icons=true&theme=tokyonight&rank_icon=github" height="150"/>
 </td>
 </tr>
 </table>
@@ -182,7 +182,7 @@ class SuhaibSalman extends FlutterDeveloper {
 </td>
 
 <td width="45%">
-<img src="https://github-readme-stats-git-master-suhaib-salmans-projects.vercel.app/api/top-langs/?username=SuhaibRumi&theme=tokyonight&hide_border=true&layout=compact">
+<img src="https://github-readme-stats-chi-five-fof9f54u28.vercel.app/api/top-langs/?username=SuhaibRumi&theme=tokyonight&hide_border=true&layout=compact">
 </td>
 </tr>
 </table>
