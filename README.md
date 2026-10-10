@@ -26,7 +26,7 @@ class SuhaibSalman extends FlutterDeveloper {
 
   final String name        = "Suhaib Salman";
   final String role        = "Expert Flutter Developer";
-  final int    experience  = 4+; // years
+  final int    experience  = 5; // years
   final String location    = "Pakistan 🇵🇰";
 
   final List<String> currentFocus = [
