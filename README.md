@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:7B2FBE,100:4169E1&height=200&section=header&text=Suhaib%20Salman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=58&animation=twinkling"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B06EFF&center=true&vCenter=true&width=600&height=55&lines=Expert+Flutter+Developer+%F0%9F%93%B1;5%2BYears+of+Production+Apps;Cross-Platform+%7C+Android+%7C+iOS;Building+AI-Powered+Experiences+%F0%9F%A4%96;Open+Source+%E2%9D%A4%EF%B8%8F+%7C+Open+to+Collab" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B06EFF&center=true&vCenter=true&width=600&height=55&lines=Expert+Flutter+Developer+%F0%9F%93%B1;5%2BYears of+Production+Apps;Cross-Platform+%7C+Android+%7C+iOS;Building+AI-Powered+Experiences+%F0%9F%A4%96;Open+Source+%E2%9D%A4%EF%B8%8F+%7C+Open+to+Collab" alt="Typing SVG" />
 
 <br/>
 
