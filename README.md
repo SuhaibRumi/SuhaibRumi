@@ -174,19 +174,19 @@ class SuhaibSalman extends FlutterDeveloper {
 </tr>
 </table>
 
-## <img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/> Language & Contribution Graph:
+ <!--<img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/> Language & Contribution Graph:
 
-<table>
+<!-- <table>
 <tr>
 <td width="55%">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuhaibRumi&theme=tokyonight&bg_color=1a1b27&hide_border=true&radius=8" width="100%">
-</td>
+</td> -->
 
-<td width="45%">
+<!-- <td width="45%">
 <img src="https://github-readme-stats-chi-five-fof9f54u28.vercel.app/api/top-langs/?username=SuhaibRumi&theme=tokyonight&hide_border=true&layout=compact">
 </td>
 </tr>
-</table>
+</table> -->
 
 ---
 
