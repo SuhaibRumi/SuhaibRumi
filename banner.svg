@@ -1,0 +1,715 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180"
+     viewBox="0 0 1200 180" role="img" aria-labelledby="title description">
+  <title id="title">Suhaib Salman</title>
+  <desc id="description">Suhaib Salman in animated green contribution-calendar squares.</desc>
+  <!-- Self-contained SVG: upload this file, then embed it as an image in your README. -->
+  <style>
+    .o {
+      fill: #ebedf0;
+      stroke: rgba(27, 31, 35, 0.07);
+      stroke-width: 0.7;
+      shape-rendering: geometricPrecision;
+    }
+    .c {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: assemble 5s ease-in-out infinite;
+    }
+    .l1 { fill: #9be9a8; }
+    .l2 { fill: #40c463; }
+    .l3 { fill: #30a14e; }
+    .l4 { fill: #216e39; }
+    @keyframes assemble {
+      0% { transform: rotate(var(--turn)); fill-opacity: 0.08; }
+      60% { transform: rotate(0deg); fill-opacity: 1; }
+      100% { transform: rotate(0deg); fill-opacity: 1; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .o { fill: #161b22; stroke: #2b3139; }
+      .l1 { fill: #9be9a8; }
+      .l2 { fill: #40c463; }
+      .l3 { fill: #30a14e; }
+      .l4 { fill: #26a641; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .c { animation: none; }
+    }
+  </style>
+  <g aria-hidden="true">
+    <g transform="translate(39.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(54.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(69.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 450deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 450deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -630deg"/>
+    </g>
+    <g transform="translate(84.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 450deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -540deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l1" data-level="1" style="--turn: 270deg"/>
+    </g>
+    <g transform="translate(99.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 270deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -630deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -360deg"/>
+    </g>
+    <g transform="translate(114.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 630deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -270deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -450deg"/>
+    </g>
+    <g transform="translate(129.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -450deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 540deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -360deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(144.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(159.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 540deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -540deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -270deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 360deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 270deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -630deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(174.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 270deg"/>
+    </g>
+    <g transform="translate(189.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 540deg"/>
+    </g>
+    <g transform="translate(204.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -450deg"/>
+    </g>
+    <g transform="translate(219.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -630deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l1" data-level="1" style="--turn: 540deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -450deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 540deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 450deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 270deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(234.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(249.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 630deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -270deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 630deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -270deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -450deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 630deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l1" data-level="1" style="--turn: -540deg"/>
+    </g>
+    <g transform="translate(264.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -450deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(279.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 630deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(294.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -270deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(309.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l1" data-level="1" style="--turn: -630deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -360deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 540deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 270deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -360deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l1" data-level="1" style="--turn: -270deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -360deg"/>
+    </g>
+    <g transform="translate(324.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(339.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 540deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 360deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -360deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 270deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -630deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 630deg"/>
+    </g>
+    <g transform="translate(354.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -630deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -630deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(369.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -630deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 540deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(384.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -450deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -450deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(399.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 270deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -630deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -540deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 270deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -360deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 270deg"/>
+    </g>
+    <g transform="translate(414.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(429.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 360deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -270deg"/>
+    </g>
+    <g transform="translate(444.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 270deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l1" data-level="1" style="--turn: -540deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l1" data-level="1" style="--turn: -450deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 450deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 450deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -540deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -270deg"/>
+    </g>
+    <g transform="translate(459.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -540deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l1" data-level="1" style="--turn: 630deg"/>
+    </g>
+    <g transform="translate(474.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(489.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -540deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 450deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -540deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 450deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 270deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -360deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 360deg"/>
+    </g>
+    <g transform="translate(504.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 630deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -270deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 270deg"/>
+    </g>
+    <g transform="translate(519.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 450deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -630deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l1" data-level="1" style="--turn: -360deg"/>
+    </g>
+    <g transform="translate(534.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 630deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -450deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -540deg"/>
+    </g>
+    <g transform="translate(549.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 270deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 450deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -450deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -540deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(564.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(579.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(594.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(609.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -450deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -270deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -630deg"/>
+    </g>
+    <g transform="translate(624.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -450deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 450deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 630deg"/>
+    </g>
+    <g transform="translate(639.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -450deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 360deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -360deg"/>
+    </g>
+    <g transform="translate(654.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -540deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l1" data-level="1" style="--turn: -630deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -450deg"/>
+    </g>
+    <g transform="translate(669.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -630deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 450deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -450deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(684.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(699.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -630deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -450deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -630deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 630deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 270deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l1" data-level="1" style="--turn: 540deg"/>
+    </g>
+    <g transform="translate(714.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -540deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -630deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(729.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 630deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 540deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(744.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -360deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 450deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(759.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -450deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 270deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -630deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -540deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 540deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -630deg"/>
+    </g>
+    <g transform="translate(774.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(789.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 360deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -360deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 630deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 540deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 540deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -360deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -270deg"/>
+    </g>
+    <g transform="translate(804.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -630deg"/>
+    </g>
+    <g transform="translate(819.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 630deg"/>
+    </g>
+    <g transform="translate(834.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -630deg"/>
+    </g>
+    <g transform="translate(849.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 270deg"/>
+    </g>
+    <g transform="translate(864.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(879.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -540deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 630deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -630deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -360deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -630deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 630deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 540deg"/>
+    </g>
+    <g transform="translate(894.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 270deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(909.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 450deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 270deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(924.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 450deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(939.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 270deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -360deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -450deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 270deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 360deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -540deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 360deg"/>
+    </g>
+    <g transform="translate(954.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(969.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -540deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -360deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -630deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 450deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -540deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 270deg"/>
+    </g>
+    <g transform="translate(984.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l1" data-level="1" style="--turn: -450deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 450deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(999.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 450deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 540deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(1014.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l1" data-level="1" style="--turn: 360deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -630deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(1029.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 630deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 360deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l1" data-level="1" style="--turn: 360deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 450deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -450deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -630deg"/>
+    </g>
+    <g transform="translate(1044.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(1059.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -540deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -270deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l1" data-level="1" style="--turn: 360deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 270deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 630deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -630deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -360deg"/>
+    </g>
+    <g transform="translate(1074.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 450deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 540deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(1089.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: -450deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(1104.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: -360deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -540deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(1119.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -360deg"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 630deg"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -630deg"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o c l2" data-level="2" style="--turn: 270deg"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: 450deg"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o c l4" data-level="4" style="--turn: 360deg"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o c l3" data-level="3" style="--turn: -450deg"/>
+    </g>
+    <g transform="translate(1134.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+    <g transform="translate(1149.5 39.5)">
+      <rect x="0" y="0" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="15" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="30" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="45" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="60" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="75" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+      <rect x="0" y="90" width="11" height="11" rx="2" ry="2" class="o" data-level="0"/>
+    </g>
+  </g>
+</svg>
