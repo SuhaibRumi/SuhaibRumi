@@ -1,15 +1,16 @@
 <div align="center">
-
+  
+![Suhaib Salman](./banner.svg)
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:7B2FBE,100:4169E1&height=200&section=header&text=Suhaib%20Salman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=58&animation=twinkling"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:7B2FBE,100:4169E1&height=200&section=header&text=Suhaib%20Salman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=58&animation=twinkling"/> -->
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B06EFF&center=true&vCenter=true&width=600&height=55&lines=Expert+Flutter+Developer+%F0%9F%93%B1;5`Years+of+Production+Apps;Cross-Platform+%7C+Android+%7C+iOS;Building+AI-Powered+Experiences+%F0%9F%A4%96;Open+Source+%E2%9D%A4%EF%B8%8F+%7C+Open+to+Collab" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B06EFF&center=true&vCenter=true&width=600&height=55&lines=Expert+Flutter+Developer+;5`Years+of+Production+Apps;Cross-Platform+%7C+Android+%7C+iOS;Building+AI-Powered+Experiences+;Open+Source+%E2%9D%A4%EF%B8%8F+%7C+Open+to+Collab" alt="Typing SVG" />
 
 <br/>
 
 <!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=SuhaibRumi&color=0175C2&style=flat-square&label=Profile+Views)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=SuhaibRumi&color=0175C2&style=flat-square&label=Profile+Views)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/suhaib-rumi)
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium)](https://Medium.com/@suhaibsohan007)
 [![Peerlist](https://img.shields.io/badge/Peerlist-Profile-00AA45?style=flat-square&logo=peerlist)](https://peerlist.io/suhaibsalman)
