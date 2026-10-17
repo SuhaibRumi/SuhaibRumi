@@ -12,9 +12,9 @@
 <!-- Profile Views & Social Badges -->
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=SuhaibRumi&color=0175C2&style=flat-square&label=Profile+Views)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/suhaib-rumi)
-[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium)](https://Medium.com/@suhaibsohan007)
 [![Peerlist](https://img.shields.io/badge/Peerlist-Profile-00AA45?style=flat-square&logo=peerlist)](https://peerlist.io/suhaibsalman)
-[![Topmate](https://img.shields.io/badge/Topmate-Book+a+Call-E4405F?style=flat-square)](https://topmate.io/suhaib_salman)
+[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium)](https://Medium.com/@suhaibsohan007)
+
 
 </div>
 
