@@ -51,70 +51,77 @@ class SuhaibSalman extends FlutterDeveloper {
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
-
-<table>
+<table align="center">
+  <!-- Row 1: Languages | Frameworks -->
   <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48"/><br/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=dart" width="48"/><br/>
-    </td>
-   <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=next" width="48"/><br/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48"/><br/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=gradle" width="48"/><br/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968875.png" width="48"/><br/>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968929.png" width="48"/><br/>
-    </td>
+    <th colspan="3">🌐 Languages</th>
+    <th colspan="3">⚛️ Frameworks & Libraries</th>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dart" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=typescript" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=flutter" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=next" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="48"/></td>
+    <td width="100"></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=materialui" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/></td>
+  </tr>
+
+  <tr><td colspan="6" height="20"></td></tr>
+
+  <!-- Row 2: Databases | Cloud & DevOps -->
+  <tr>
+    <th colspan="3">🗄️ Databases</th>
+    <th colspan="3">☁️ Cloud & DevOps</th>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgresql" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=gcp" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=supabase" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=gradle" width="48"/></td>
+    <td width="100"></td>
+    <td width="100"></td>
+  </tr>
+
+  <tr><td colspan="6" width="70"></td></tr>
+
+  <!-- Row 3: Tools & Design -->
+  <tr>
+    <th colspan="3">🛠️ Tools & Design</th>
+    <th colspan="3"></th>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=figma" width="48"/></td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=notion" width="48"/></td>
+    <td colspan="3"></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968875.png" width="48"/></td>
+    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968929.png" width="48"/></td>
+    <td width="100"></td>
+    <td colspan="3"></td>
   </tr>
 </table>
+ 
 
 
-</div>
-
----
-
-## 🚀 Web & Apps I've Shipped
-
-<div align="center">
+<!-- <div align="center">
 <table>
   <tr>
     <td align="center" width="150">
@@ -141,13 +148,13 @@ class SuhaibSalman extends FlutterDeveloper {
        </td>
      </tr>
 </table>
-</div>
+</div> -->
 
 ---
 
 ## 📊 GitHub Stats
 
-## <img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/> Github Profile Summary Card:
+## <img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/> Github Profile Summary Card
 
 
 <table>
@@ -162,7 +169,7 @@ class SuhaibSalman extends FlutterDeveloper {
 </table>
 
 
-## <img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/> GitHub Stats:
+## <img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/> GitHub Stats
 <table>
 <tr>
 <td>
@@ -174,19 +181,8 @@ class SuhaibSalman extends FlutterDeveloper {
 </tr>
 </table>
 
- <!--<img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/> Language & Contribution Graph:
 
-<!-- <table>
-<tr>
-<td width="55%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuhaibRumi&theme=tokyonight&bg_color=1a1b27&hide_border=true&radius=8" width="100%">
-</td> -->
 
-<!-- <td width="45%">
-<img src="https://github-readme-stats-chi-five-fof9f54u28.vercel.app/api/top-langs/?username=SuhaibRumi&theme=tokyonight&hide_border=true&layout=compact">
-</td>
-</tr>
-</table> -->
 
 ---
 
