@@ -2,18 +2,17 @@
   
 ![Suhaib Salman](./banner.svg)
 <!-- Animated Header Banner -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:7B2FBE,100:4169E1&height=200&section=header&text=Suhaib%20Salman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=58&animation=twinkling"/> -->
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B06EFF&center=true&vCenter=true&width=600&height=55&lines=Expert+Flutter+Developer+;5`Years+of+Production+Apps;Cross-Platform+%7C+Android+%7C+iOS;Building+AI-Powered+Experiences+;Open+Source+%E2%9D%A4%EF%B8%8F+%7C+Open+to+Collab" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51125B&center=true&vCenter=true&width=600&height=55&lines=Expert+Flutter+Developer+;5`Years+of+Production+Apps;Cross-Platform+%7C+Android+%7C+iOS;Building+AI-Powered+Experiences+;Open+Source+%E2%9D%A4%EF%B8%8F+%7C+Open+to+Collab" alt="Typing SVG" />
 
 <br/>
 
 <!-- Profile Views & Social Badges -->
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=SuhaibRumi&color=0175C2&style=flat-square&label=Profile+Views)-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/suhaib-rumi)
-[![Peerlist](https://img.shields.io/badge/Peerlist-Profile-00AA45?style=flat-square&logo=peerlist)](https://peerlist.io/suhaibsalman)
-[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium)](https://medium.com/@SuhaibSalman)
+![Profile Views](https://komarev.com/ghpvc/?username=SuhaibRumi&color=017562&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](www.linkedin.com/in/suhaibsalman/)
+[![Peerlist](https://img.shields.io/badge/Peerlist-Profile-00AA45?style=flat-square&logo=peerlist)](www.peerlist.io/suhaibsalman)
+[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium)](www.medium.com/@SuhaibSalman)
 
 
 </div>
@@ -26,14 +25,15 @@
 class SuhaibSalman extends FlutterDeveloper {
 
   final String name        = "Suhaib Salman";
-  final String role        = "Expert Flutter Developer";
+  final String role        = " Flutter Engineer";
   final int    experience  = 5; // years
   final String location    = "Pakistan 🇵🇰";
 
   final List<String> currentFocus = [
-    "AI-powered mobile applications",
+    "AI SaaS Products",  
     "Automation workflows",
     "Cross-platform Flutter apps",
+    "AI-powered mobile applications",
   ];
 
   final Map<String, bool> openFor = {
@@ -45,88 +45,66 @@ class SuhaibSalman extends FlutterDeveloper {
 
   String get motto => "Ship fast. Build clean. Scale smart. 🚀";
 }
-
+  🌐 See all projects on my portfolio "https://suhaibsalman.vercel.app"
 ```
 
----
-
-## 🛠️ Tech Stack
+  <!--   Languages & Frameworks -->
+  
+## 🛠️ Tack Stack
 <table >
-  <tr>
-    <th >🌐 Languages</th>
-    <th >⚛️ Frameworks & Libraries</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=dart,typescript,js,html,css,py&perline=6" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flutter,next,react,tailwind,materialui,tensorflow&perline=6" />
-    </td>
-  </tr>
+    <td>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,nextjs,py,html,css,tailwind,materialui,tensorflow,sqlite,firebase,postgresql,supabase,gradle,git,githubactions,gcp,vercel,cloudflare,postman,figma,notion",  />
+</td>
+</table>
 
-  <tr>
-    <th>🗄️ Databases</th>
-    <th>☁️ Cloud & DevOps</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sqlite,postgresql,mongodb,mysql,firebase,supabase&perline=6" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,gradle,githubactions,vercel,kubernetes,cloudflare,netlify&perline=5" />
-    </td>
-  </tr>
+ <!--  Featured Projects -->
 
+<h2>🚀 Featured Projects</h2>
+
+<table width="100%">
   <tr>
-    <th colspan="2">🛠️ Tools & Design</th>
+    <td width="25%" valign="top" align="left">
+      <img src="https://suhaibsalman.vercel.app/assets/project_4-BLxFPd4Y.webp" width="100%" /><br/>
+      <h3>Upalerts AI</h3>
+      <sub>Productivity</sub>
+      <p>Get instant job notifications from Upwork, generate winning proposals with AI.</p>
+    </td>
+    <td width="25%" valign="top" align="left">
+      <img src="https://suhaibsalman.vercel.app/assets/project_1-ByVPH6B5.webp" width="100%" /><br/>
+      <h3>Olizon</h3>
+      <sub>E-commerce / Olive Oil</sub>
+      <p>Modern olive-oil marketplace with auth, explore, cart, and orders.</p>
+    </td>
+    <td width="25%" valign="top" align="left">
+      <img src="https://suhaibsalman.vercel.app/assets/project_5-B6HdbVkv.webp" width="100%" /><br/>
+      <h3>e-Shop</h3>
+      <sub>Brand / Product</sub>
+      <p>Product app under the eShop brand with polished shopping flows.</p>
+    </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://skillicons.dev/icons?i=postman,figma,notion" height="48" />
-      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968875.png" width="48" />
-      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968929.png" width="48" />
+    <td width="25%" valign="top" align="left">
+      <img src="https://suhaibsalman.vercel.app/assets/project_2-DYNHQa1J.webp" width="100%" /><br/>
+      <h3>Medilis.AI</h3>
+      <sub>Health / AI Assistant</sub>
+      <p>Personal AI health assistant with chat, pricing plans, and medical records.</p>
+    </td>
+    <td width="25%" valign="top" align="left">
+      <img src="https://suhaibsalman.vercel.app/assets/project_7-DlBnhzCc.webp" width="100%" /><br/>
+      <h3>HyFixit</h3>
+      <sub>Live Website / Services based</sub>
+      <p>Services website designed and built on WordPress.</p>
+    </td>
+    <td width="25%" valign="top" align="left">
+      <img src="https://suhaibsalman.vercel.app/assets/project_3-CZ3Xxtdn.webp" width="100%" /><br/>
+      <h3>Covid-19 Tracker</h3>
+      <sub>Open Source / Realtime API</sub>
+      <p>Global and per-country COVID-19 statistics with a clean dashboard UI.</p>
     </td>
   </tr>
 </table>
-
-
-<!-- <div align="center">
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://hyfixit.com/wp-content/uploads/2026/06/cropped-logo.hyfixit-removebg-preview-1-300x100.webp" border-radius="20px" /> 
-      <sub><b>Hyfixit</b></sub>
-    </td>
-    <td align="center" width="100">
-     <img src="https://play-lh.googleusercontent.com/Ngq8sxTvZxjJHRr8ZObgFshMFW_2u3e3Oit3pd0yW-LaGaqD9zf5oBW8zHK2IGq9eg=w60-h60-rw" border-radius="20px" />
-      <sub><b>UpAlerts</b></sub>
-    </td>
-    <td align="center" width="100">
-  <a href="https://github.com/SuhaibRumi/" target="StreamUp Live"><img src="https://play-lh.googleusercontent.com/wyKiqIq8kZJ66QINSW06F_NFWzpuiC-ZUsRxu5OzEehsHk_wjGSaYO7AJY4B0MT-6fQ=w240-h480-rw"  border-radius="20px"title=StreamUp-Live /></a>&emsp; 
-         <sub><b>StreamUp Live</b></sub>
-    </td>
-     <td align="center" width="100">
- <a href="https://github.com/SuhaibRumi/Covid-19-Tracking-App" target="Covid-Tracking"><img src="https://github.com/SuhaibRumi/Covid-19-Tracking-App/blob/main/assets/images/covid.png"  border-radius="20px" title=Covid-Tracking /></a>&emsp; 
-         <sub><b>Covid-19-Tracking-App</b></sub>
-    </td>
-      <td align="center" width="100">
-<a href="https://github.com/SuhaibRumi/OlizonApp" target="Olizon-App"><img src="https://github.com/SuhaibRumi/OlizonApp/blob/main/assets/images/png/ozlin_logo.png"   border-radius="20px" title= OlizonApp /></a>
-    </td>
-    <td align="center" width="100">
-  <a href="https://github.com/SuhaibRumi/e-shop" target="e-shop"><img src="https://github.com/SuhaibRumi/e-shop/blob/main/assets/images/app-logo.png"   border-radius="20px" title= e-shop /></a> 
-       </td>
-     </tr>
-</table>
-</div> -->
-
----
-
-## 📊 GitHub Stats
 
 ## <img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/> Github Profile Summary Card
-
-
 <table>
 <tr>
 <td align="center">
@@ -138,37 +116,25 @@ class SuhaibSalman extends FlutterDeveloper {
 </tr>
 </table>
 
-
 ## <img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/> GitHub Stats
 <table>
 <tr>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhaibRumi&theme=tokyonight" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhaibRumi&theme=tokyonight" height="220"/>
 </td>
 <td>
-<img src="https://github-readme-stats-chi-five-fof9f54u28.vercel.app/api?username=SuhaibRumi&show_icons=true&theme=tokyonight&rank_icon=github" height="150"/>
+<img src="https://github-readme-stats-chi-five-fof9f54u28.vercel.app/api?username=SuhaibRumi&show_icons=true&theme=tokyonight&rank_icon=github" height="220"/>
 </td>
 </tr>
 </table>
-
-
-
-
----
 
 <div align="center">
 
 ### 📡 `System Status: Open for Freelance & Collaborations.`
 
-[![Email](https://img.shields.io/badge/Email-suhaibsohan007%40gmail.com-6a38bc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhaibsohan007@gmail.com)
+[![Email](https://img.shields.io/badge/Email-suhaibsohan007%70gmail.com-51125B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhaibsohan007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-suhaibsalman-1867d8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/suhaibsalman)
 [![Topmate](https://img.shields.io/badge/Book%20a%20Call-Topmate-E4405F?style=for-the-badge)](https://topmate.io/suhaib_salman)
 
 <br/>
-
-
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,50:7B2FBE,100:6A0DAD&height=100&section=footer"/>
-
 </div>
