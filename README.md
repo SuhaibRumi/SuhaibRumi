@@ -51,74 +51,44 @@ class SuhaibSalman extends FlutterDeveloper {
 ---
 
 ## 🛠️ Tech Stack
-<table align="center">
-  <!-- Row 1: Languages | Frameworks -->
+<table >
   <tr>
-    <th colspan="3">🌐 Languages</th>
-    <th colspan="3">⚛️ Frameworks & Libraries</th>
+    <th >🌐 Languages</th>
+    <th >⚛️ Frameworks & Libraries</th>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=dart" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=typescript" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=flutter" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=next" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48"/></td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="48"/></td>
-    <td width="100"></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=materialui" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=dart,typescript,js,html,css,py&perline=6" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flutter,next,react,tailwind,materialui,tensorflow&perline=6" />
+    </td>
   </tr>
 
-  <tr><td colspan="6" height="20"></td></tr>
-
-  <!-- Row 2: Databases | Cloud & DevOps -->
   <tr>
-    <th colspan="3">🗄️ Databases</th>
-    <th colspan="3">☁️ Cloud & DevOps</th>
+    <th>🗄️ Databases</th>
+    <th>☁️ Cloud & DevOps</th>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=sqlite" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgresql" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=gcp" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="48"/></td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=supabase" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=gradle" width="48"/></td>
-    <td width="100"></td>
-    <td width="100"></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sqlite,postgresql,mongodb,mysql,firebase,supabase&perline=6" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,gradle,githubactions,vercel,kubernetes,cloudflare,netlify&perline=5" />
+    </td>
   </tr>
 
-  <tr><td colspan="6" width="70"></td></tr>
-
-  <!-- Row 3: Tools & Design -->
   <tr>
-    <th colspan="3">🛠️ Tools & Design</th>
-    <th colspan="3"></th>
+    <th colspan="2">🛠️ Tools & Design</th>
   </tr>
   <tr>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=figma" width="48"/></td>
-    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=notion" width="48"/></td>
-    <td colspan="3"></td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968875.png" width="48"/></td>
-    <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968929.png" width="48"/></td>
-    <td width="100"></td>
-    <td colspan="3"></td>
+    <td colspan="2" align="center">
+      <img src="https://skillicons.dev/icons?i=postman,figma,notion" height="48" />
+      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968875.png" width="48" />
+      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968929.png" width="48" />
+    </td>
   </tr>
 </table>
- 
 
 
 <!-- <div align="center">
